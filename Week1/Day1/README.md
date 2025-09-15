@@ -16,7 +16,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
 2. **Install Tailwind CSS via npm**
    ```bash
-   npm install -D tailwindcss
+   npm install -D tailwindcss@3
    ```
 
 3. **Generate the Tailwind configuration file**
